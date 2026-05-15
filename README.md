@@ -27,9 +27,7 @@ sonia = {
     "currently_building": "AI agents, agentic pipelines & fullstack apps",
     "focus_areas": ["Agentic AI", "LLM Integration", "Computer Vision", "Distributed Systems"],
     "competitive_programming": "300+ problems solved | CodeChef 2⭐ | LeetCode Active",
-    "hackathons": ["Breaking Enigma Finalist", "TechSprint Finalist"],
-    "fun_fact": "I'm doing two degrees simultaneously and still shipping projects 🚀"
-}
+  }
 ```
 
 ---
