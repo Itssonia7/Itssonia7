@@ -27,7 +27,9 @@ sonia = {
     "currently_building": "AI agents, agentic pipelines & fullstack apps",
     "focus_areas": ["Agentic AI", "LLM Integration", "Computer Vision", "Distributed Systems"],
     "competitive_programming": "300+ problems solved | CodeChef 2⭐ | LeetCode Active",
-  }
+    "hackathons": ["Breaking Enigma Finalist", "TechSprint Finalist"],
+    "fun_fact": "I'm doing two degrees simultaneously and still shipping projects 🚀"
+}
 ```
 
 ---
@@ -89,6 +91,17 @@ sonia = {
 <tr>
 <td width="50%" valign="top">
 
+### 📐 IntelliDocs — RAG Compliance Engine
+*Sigma Squad Hackathon 2026*
+
+RAG pipeline transforming 1,000+ pages of BIS SP 21 industrial PDFs into precise compliance reports for MSEs. **FAISS** semantic retrieval + **Gemini** LLM + side-by-side source proof for zero-hallucination verification. MRR: **0.92** | Hit Rate @5: **94%** | Latency: **1.4s**
+
+`Python` `LangChain` `FAISS` `Gemini` `RAG` `Streamlit`
+
+[![View Repo](https://img.shields.io/badge/GitHub-IntelliDocs-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/Itssonia7/IntelliDocs)
+
+---
+
 ### 🤖 Unstop Hackathon Agent
 *AI-Powered Automation & Scraper*
 
@@ -144,7 +157,14 @@ Maps emotional states to physiological impacts using **Google Gemini**. Explores
 
 ---
 
+### 🛡️ Sentinel-Stream — ML-Based SIEM Pipeline
+*IITB Trust Lab — Summer of Code 2026*
 
+A modular SOC prototype using **Unsupervised ML (Isolation Forest)** to detect Linux auth log anomalies in real-time — brute-force attempts, abnormal login timings, behavioral drift. Floating-point anomaly scoring (Low/Medium/High Risk) replaces static rules. Kibana "War Room" dashboard with threat gauges & attack velocity heatmaps.
+
+`Python` `Scikit-Learn` `Docker` `Elasticsearch` `Kibana` `ECS` `ML`
+
+[![View Repo](https://img.shields.io/badge/GitHub-sentinel--stream-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/Itssonia7/sentinel-stream)
 
 </td>
 </tr>
