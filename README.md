@@ -60,7 +60,7 @@ RAG pipeline turning 1,000+ pages of BIS SP 21 industrial PDFs into precise comp
 
 `Python` `LangChain` `FAISS` `Gemini` `RAG` `Streamlit`
 
-[![View Repo](https://img.shields.io/badge/GitHub-IntelliDocs-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/Itssonia7/IntelliDocs)
+
 
 </td>
 <td width="50%" valign="top">
@@ -72,7 +72,7 @@ A SOC prototype that replaces static log rules with **unsupervised ML (Isolation
 
 `Python` `Scikit-Learn` `Docker` `Elasticsearch` `Kibana` `ECS`
 
-[![View Repo](https://img.shields.io/badge/GitHub-sentinel--stream-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/Itssonia7/sentinel-stream)
+
 
 ---
 
