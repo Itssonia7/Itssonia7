@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sonia%20Nanwani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20%2B%20Security%20Systems%20%7C%20CSE%20%40%20WCE%20%7C%20DS%20%40%20IIT%20Madras&descAlignY=60&descSize=15&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sonia%20Nanwani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20building%20AI%20Systems%20%7C%20CSE%20%40%20WCE%20%7C%20DS%20%40%20IIT%20Madras&descAlignY=60&descSize=15&descColor=a78bfa" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+AI+agents+that+reason+over+security+%26+structured+data;nmap+%E2%86%92+CVE+lookup+%E2%86%92+exploit+suggestion+%E2%80%94+CyberGuard+AI;Isolation+Forest+anomaly+detection+on+live+auth+logs+%E2%80%94+Sentinel-Stream;850%2B+DSA+problems+solved+%7C+CodeChef+2%E2%98%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+across+AI+agents%2C+security+tooling+%26+full-stack+systems;nmap+%E2%86%92+CVE+lookup+%E2%86%92+exploit+suggestion+%E2%80%94+CyberGuard+AI;RAG+pipeline+at+0.92+MRR%2C+94%25+Hit%405+%E2%80%94+IntelliDocs;850%2B+DSA+problems+solved+%7C+CodeChef+2%E2%98%85)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,6 +12,10 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-its__sonia_⭐⭐-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/its_sonia)
 [![Portfolio](https://img.shields.io/badge/Portfolio-soniananwani.netlify.app-a78bfa?style=for-the-badge&logo=netlify&logoColor=white)](https://soniananwani.netlify.app)
 [![Email](https://img.shields.io/badge/Email-soniananvani7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soniananvani7@gmail.com)
+
+<br/>
+
+📬 **Open to:** Software Engineering / AI Engineering internships & collaborations · reach out via [LinkedIn](https://linkedin.com/in/sonia-nanwani-8a8724329) or email above
 
 </div>
 
@@ -25,18 +29,17 @@ sonia = {
         "B.Tech CSE @ Walchand College of Engineering, Sangli (CGPA: 8.07)",
         "BS Data Science & Applications @ IIT Madras (Diploma level, in progress)"
     ],
-    "core_focus": "Agentic AI systems for security & structured-data problems",
+    "core_focus": "AI-driven systems across domains — agentic pipelines, security tooling, full-stack apps, distributed systems",
     "how_i_build": "give an LLM a reasoning loop + real tools (scanners, APIs, retrieval) instead of just a chat interface",
     "foundations": "850+ DSA problems solved (CodeChef + LeetCode) | CodeChef 2⭐",
-    "also_explored": ["Computer Vision", "Distributed Systems", "Blockchain"],
 }
 ```
 
 ---
 
-## 🎯 What I Build — Agentic AI × Security & Structured Data
+## 🎯 Featured Projects
 
-This is where most of my depth sits: giving LLMs actual tools and letting them reason through multi-step tasks, applied to problems where the output has to be verifiable, not just plausible.
+The ones with the most technical depth — each pairs an LLM with real tools (scanners, APIs, retrieval, ML models) instead of using it as just a chat interface, so the output is verifiable, not just plausible.
 
 <table>
 <tr>
@@ -91,13 +94,13 @@ Agent that finds relevant hackathons based on tech stack and deadline fit. Three
 
 ---
 
-## 🧪 Also Explored
+## 🧪 More Builds
 
-Real projects, different lane — kept here to show range without diluting the core focus above.
+Same appetite for shipping, different domains each time — blockchain, computer vision, sustainability, health-tech.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **TrustTrace** — Breaking Enigma Top 50 Shortlisted | Blockchain-based investment portal with milestone-gated escrow and homomorphic encryption | `Go` `Blockchain` `OOP` |
+| **TrustTrace** — Breaking Enigma Hackathon Finalist | Blockchain-based investment portal with milestone-gated escrow and homomorphic encryption | `Go` `Blockchain` `OOP` |
 | **EcoLens AI** — TechSprint Hackathon Finalist | Classifies trash type from images, suggests DIY upcycling via Gemini | `React` `Gemini API` `CV` |
 | **SomaSense AI** | Maps emotional states to physiological impact using Gemini | `Flask` `Gemini` `Python` |
 | **AI Nutrition Tracker** | Food-image recognition + Edamam macro lookup, cut manual entry 80% | `Flask` `Hugging Face` `CV` |
@@ -177,7 +180,7 @@ Two-week engagement building AI-integrated web features.
 | 🎓 Dual Degree | WCE CSE + IIT Madras BS in DS, simultaneously (2024–2028) |
 | ⭐⭐ CodeChef 2-Star | 850+ DSA problems solved (CodeChef + LeetCode) |
 | 🧠 Shortlisted | Amazon ML Summer School 2026 |
-| 🥈 Top 50 | Breaking Enigma — Fintech Track (TrustTrace) |
+| 🥈 Top 50 Shortlisted | Breaking Enigma — Fintech Track (TrustTrace) |
 | 🥈 Hackathon Finalist | TechSprint — Sustainable AI Track (EcoLens AI) |
 
 
@@ -195,7 +198,7 @@ Two-week engagement building AI-integrated web features.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-*Agents that don't just talk about a problem — they run the tool, check the source, and show their work.*
+*Build things that matter. Ship things that work — across whatever domain the problem lives in.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Itssonia7&color=a78bfa&style=flat-square&label=Profile+Views)
 
