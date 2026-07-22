@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sonia%20Nanwani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20WCE%20Sangli%20%7C%20DS%20%40%20IIT%20Madras%20%7C%20Building%20with%20AI&descAlignY=60&descSize=16&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sonia%20Nanwani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20%2B%20Security%20Systems%20%7C%20CSE%20%40%20WCE%20%7C%20DS%20%40%20IIT%20Madras&descAlignY=60&descSize=15&descColor=a78bfa" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Agentic+AI+%E2%9C%A6+Full-Stack+Dev+%E2%9C%A6+Computer+Vision;LLM+Integration+%7C+Distributed+Systems+%7C+DSA;Breaking+Enigma+%26+TechSprint+Hackathon+Finalist;IIT+Madras+DS+%2B+WCE+CSE+%E2%80%94+2024%E2%80%932028)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+AI+agents+that+reason+over+security+%26+structured+data;nmap+%E2%86%92+CVE+lookup+%E2%86%92+exploit+suggestion+%E2%80%94+CyberGuard+AI;Isolation+Forest+anomaly+detection+on+live+auth+logs+%E2%80%94+Sentinel-Stream;850%2B+DSA+problems+solved+%7C+CodeChef+2%E2%98%85)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,6 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Itssonia7-24243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itssonia7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-itssonia7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/itssonia7/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-its__sonia_⭐⭐-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/its_sonia)
+[![Portfolio](https://img.shields.io/badge/Portfolio-soniananwani.netlify.app-a78bfa?style=for-the-badge&logo=netlify&logoColor=white)](https://soniananwani.netlify.app)
 [![Email](https://img.shields.io/badge/Email-soniananvani7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soniananvani7@gmail.com)
 
 </div>
@@ -21,14 +22,95 @@
 ```python
 sonia = {
     "education": [
-        "B.Tech CSE @ Walchand College of Engineering, Sangli (CGPA: 8.38)",
-        "BS Data Science & Applications @ IIT Madras"
+        "B.Tech CSE @ Walchand College of Engineering, Sangli (CGPA: 8.07)",
+        "BS Data Science & Applications @ IIT Madras (Diploma level, in progress)"
     ],
-    "currently_building": "AI agents, agentic pipelines & fullstack apps",
-    "focus_areas": ["Agentic AI", "LLM Integration", "Computer Vision", "Distributed Systems"],
-    "competitive_programming": "300+ problems solved | CodeChef 2⭐ | LeetCode Active",
-  }
+    "core_focus": "Agentic AI systems for security & structured-data problems",
+    "how_i_build": "give an LLM a reasoning loop + real tools (scanners, APIs, retrieval) instead of just a chat interface",
+    "foundations": "850+ DSA problems solved (CodeChef + LeetCode) | CodeChef 2⭐",
+    "also_explored": ["Computer Vision", "Distributed Systems", "Blockchain"],
+}
 ```
+
+---
+
+## 🎯 What I Build — Agentic AI × Security & Structured Data
+
+This is where most of my depth sits: giving LLMs actual tools and letting them reason through multi-step tasks, applied to problems where the output has to be verifiable, not just plausible.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ CyberGuard AI
+*Autonomous Pentesting Agent*
+
+An agent that runs a real recon-to-report pipeline: **nmap** scan → automated **CVE lookup via the NVD API** → LLM-reasoned exploit suggestion, built on **Gemini 2.0 Flash function calling**. Keeps JSON session memory across steps and outputs a markdown/PDF report at the end — the point isn't a chatbot that talks about security, it's one that runs the scan and hands you a usable report.
+
+`Python` `Gemini Function Calling` `NVD API` `nmap` `Agentic AI`
+
+---
+
+### 📐 IntelliDocs — RAG Compliance Engine
+*Sigma Squad Hackathon 2026*
+
+RAG pipeline turning 1,000+ pages of BIS SP 21 industrial PDFs into precise compliance answers for MSEs, with side-by-side source proof so every answer is checkable against the original text — no answer without a citation. **FAISS** semantic retrieval + **Gemini** generation.
+
+**MRR: 0.92 | Hit Rate@5: 94% | Latency: 1.4s**
+
+`Python` `LangChain` `FAISS` `Gemini` `RAG` `Streamlit`
+
+[![View Repo](https://img.shields.io/badge/GitHub-IntelliDocs-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/Itssonia7/IntelliDocs)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Sentinel-Stream — ML-Based SIEM Pipeline
+*Personal Project*
+
+A SOC prototype that replaces static log rules with **unsupervised ML (Isolation Forest)**, scoring Linux auth-log anomalies — brute-force attempts, abnormal login timings, behavioral drift — as continuous Low/Medium/High risk instead of binary alerts. Runs through **Docker → Elasticsearch → Kibana**, with a live "War Room" dashboard for threat gauges and attack-velocity heatmaps.
+
+`Python` `Scikit-Learn` `Docker` `Elasticsearch` `Kibana` `ECS`
+
+[![View Repo](https://img.shields.io/badge/GitHub-sentinel--stream-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/Itssonia7/sentinel-stream)
+
+---
+
+
+
+### 🤖 Unstop Hackathon Agent
+*Autonomous Scraper + Filter*
+
+Agent that finds relevant hackathons based on tech stack and deadline fit. Three-layer pipeline: **Playwright** extraction → **Pydantic** validation → **LLM reasoning** layer, with a no-login, safety-first scraping approach and 100% data integrity on extracted records.
+
+`Python` `Playwright` `Pydantic` `LLM` `Agentic AI`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 Also Explored
+
+Real projects, different lane — kept here to show range without diluting the core focus above.
+
+| Project | What it does | Stack |
+|---|---|---|
+| **TrustTrace** — Breaking Enigma Top 50 Shortlisted | Blockchain-based investment portal with milestone-gated escrow and homomorphic encryption | `Go` `Blockchain` `OOP` |
+| **EcoLens AI** — TechSprint Hackathon Finalist | Classifies trash type from images, suggests DIY upcycling via Gemini | `React` `Gemini API` `CV` |
+| **SomaSense AI** | Maps emotional states to physiological impact using Gemini | `Flask` `Gemini` `Python` |
+| **AI Nutrition Tracker** | Food-image recognition + Edamam macro lookup, cut manual entry 80% | `Flask` `Hugging Face` `CV` |
+
+---
+
+## 💼 Experience
+
+**Web Development Intern — Iinnfokidaa Solutions Pvt. Ltd.** *(June 2025)*
+Built a production **EV Battery Swap & Booking System** — full-stack, Agile/Scrum team, SQLite transaction layer.
+
+**AI Web Development Intern — Amigos Foundation** *(July 2026)*
+Two-week engagement building AI-integrated web features.
 
 ---
 
@@ -48,9 +130,7 @@ sonia = {
 **Frameworks & Tools**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -60,113 +140,16 @@ sonia = {
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Specialized**
+**AI / Infra**
 
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 </div>
-
----
-
-## 💼 Experience
-
-### 🔌 Web Development Intern — Iinnfokidaa Solutions Pvt. Ltd. *(June 2025 – July 2025)*
-> Built a production-ready **EV Battery Swapping & Booking System** — full-stack, Agile/Scrum team, SQLite data layer for rapid local transactions.
-
----
-
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📐 IntelliDocs — RAG Compliance Engine
-*Sigma Squad Hackathon 2026*
-
-RAG pipeline transforming 1,000+ pages of BIS SP 21 industrial PDFs into precise compliance reports for MSEs. **FAISS** semantic retrieval + **Gemini** LLM + side-by-side source proof for zero-hallucination verification. MRR: **0.92** | Hit Rate @5: **94%** | Latency: **1.4s**
-
-`Python` `LangChain` `FAISS` `Gemini` `RAG` `Streamlit`
-
-[![View Repo](https://img.shields.io/badge/GitHub-IntelliDocs-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/Itssonia7/IntelliDocs)
-
----
-
-### 🤖 Unstop Hackathon Agent
-*AI-Powered Automation & Scraper*
-
-Autonomous AI agent that scrapes and filters hackathons from Unstop based on tech stacks & deadlines. Multi-layer architecture: **Playwright** extraction → **Pydantic** validation → **LLM reasoning layer** — 100% data integrity with a safety-first no-login approach.
-
-`Python` `Playwright` `Pydantic` `LLM` `Agentic AI`
-
----
-
-### 🍎 AI-Based Nutrition Tracker
-*Computer Vision & Flask*
-
-Automated nutrition logging using **Hugging Face transformers** for food image recognition + **Edamam API** for real-time macro data. Async Flask workflow reduced manual entry by **80%**.
-
-`Flask` `Hugging Face` `Computer Vision` `Python`
-
----
-
-### 🔋 EV Battery Swap Booking System
-*Full-Stack Web App*
-
-Full-stack platform for booking EV battery swaps at stations. Real-time availability tracking, booking management, and a relational database backend.
-
-`Full-Stack` `SQLite` `REST APIs` `Agile`
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 TrustTrace — Blockchain Fintech
-*Breaking Enigma Hackathon Finalist*
-
-Transparent investment portal using **blockchain** for immutable transaction logging. OOP in **Go** for distributed investor-startup interactions + milestone-gated escrow + homomorphic encryption.
-
-`Go` `Blockchain` `OOP` `Distributed Systems`
-
----
-
-### 🌿 EcoLens AI (Eco-Sort AI)
-*Computer Vision & Sustainability*
-
-Image classification system that identifies trash types and suggests **DIY upcycling tips** via **Gemini API**. Built for sustainability hackathons.
-
-`React` `Gemini API` `Computer Vision` `Python`
-
----
-
-### 🧘 SomaSense AI
-*Physiological Emotion Analysis*
-
-Maps emotional states to physiological impacts using **Google Gemini**. Explores body-emotion mapping and somatic philosophies. Optimized backend routes for high availability.
-
-`Gemini` `Flask` `Python` `Testing`
-
----
-
-### 🛡️ Sentinel-Stream — ML-Based SIEM Pipeline
-*IITB Trust Lab — Summer of Code 2026*
-
-A modular SOC prototype using **Unsupervised ML (Isolation Forest)** to detect Linux auth log anomalies in real-time — brute-force attempts, abnormal login timings, behavioral drift. Floating-point anomaly scoring (Low/Medium/High Risk) replaces static rules. Kibana "War Room" dashboard with threat gauges & attack velocity heatmaps.
-
-`Python` `Scikit-Learn` `Docker` `Elasticsearch` `Kibana` `ECS` `ML`
-
-[![View Repo](https://img.shields.io/badge/GitHub-sentinel--stream-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/Itssonia7/sentinel-stream)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -191,12 +174,12 @@ A modular SOC prototype using **Unsupervised ML (Isolation Forest)** to detect L
 
 | 🏅 Achievement | 📌 Details |
 |---|---|
-| 🥈 Hackathon Finalist | Breaking Enigma — Fintech Track |
-| 🥈 Hackathon Finalist | TechSprint — Sustainable AI Track |
-| ⭐⭐ CodeChef 2-Star | Active competitive programmer |
-| 💻 300+ Problems Solved | LeetCode + CodeChef (DSA focused) |
-| 🎓 Dual Degree | WCE CSE + IIT Madras DS simultaneously |
-| 🎯 Assistant Event Director | MLSC — coordinated technical events & club ops |
+| 🎓 Dual Degree | WCE CSE + IIT Madras BS in DS, simultaneously (2024–2028) |
+| ⭐⭐ CodeChef 2-Star | 850+ DSA problems solved (CodeChef + LeetCode) |
+| 🧠 Shortlisted | Amazon ML Summer School 2026 |
+| 🥈 Top 50 | Breaking Enigma — Fintech Track (TrustTrace) |
+| 🥈 Hackathon Finalist | TechSprint — Sustainable AI Track (EcoLens AI) |
+
 
 </div>
 
@@ -208,20 +191,11 @@ A modular SOC prototype using **Unsupervised ML (Isolation Forest)** to detect L
 
 ---
 
-## 📚 Currently Exploring
-
-- 🔬 Advanced Agentic AI architectures & multi-agent orchestration
-- 📡 Distributed systems & real-time data streaming (Kafka, ELK)
-- 🧮 Competitive programming — pushing past 2⭐ on CodeChef
-- 🎓 IIT Madras DS coursework — statistics, ML theory
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-*"Build things that matter. Ship things that work."*
+*Agents that don't just talk about a problem — they run the tool, check the source, and show their work.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Itssonia7&color=a78bfa&style=flat-square&label=Profile+Views)
 
