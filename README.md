@@ -177,7 +177,6 @@ Two-week engagement building AI-integrated web features.
 
 | 🏅 Achievement | 📌 Details |
 |---|---|
-| 🎓 Dual Degree | WCE CSE + IIT Madras BS in DS, simultaneously (2024–2028) |
 | ⭐⭐ CodeChef 2-Star | 850+ DSA problems solved (CodeChef + LeetCode) |
 | 🧠 Shortlisted | Amazon ML Summer School 2026 |
 | 🥈 Top 50 Shortlisted | Breaking Enigma — Fintech Track (TrustTrace) |
