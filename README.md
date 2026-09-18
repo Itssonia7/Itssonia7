@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm a third-year CS student at Walchand College of Engineering, also doing a Data Science degree from IIT Madras alongside it. I build backend and full-stack systems — mainly in Python (FastAPI, Flask) and Java (Spring Boot) — and I like wiring AI into them where it's actually useful, not just for the sake of it. Security is a growing focus of mine too, mostly through personal projects.
+I'm a third-year CS student at Walchand College of Engineering, also doing a Data Science degree from IIT Madras alongside it. I build backend and full-stack systems . I like wiring AI into them where it's actually useful, not just for the sake of it. Security is a growing focus of mine too, mostly through personal projects.
 
 I've solved 850+ problems on LeetCode and CodeChef, which is where most of my fundamentals come from.
 
