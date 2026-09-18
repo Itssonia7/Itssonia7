@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sonia%20Nanwani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CSE%20student%20%40%20WCE%20%7C%20Data%20Science%20%40%20IIT%20Madras&descAlignY=60&descSize=15&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sonia%20Nanwani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20full-stack%20engineer%20%7C%20building%20AI-integrated%20systems&descAlignY=60&descSize=15&descColor=a78bfa" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm a third-year CS student at Walchand College of Engineering, also doing a Data Science degree from IIT Madras alongside it. I like building things that combine software with AI — mostly Python, some full-stack work, and a growing interest in security.
+I'm a third-year CS student at Walchand College of Engineering, also doing a Data Science degree from IIT Madras alongside it. I build backend and full-stack systems — mainly in Python (FastAPI, Flask) and Java (Spring Boot) — and I like wiring AI into them where it's actually useful, not just for the sake of it. Security is a growing focus of mine too, mostly through personal projects.
 
 I've solved 850+ problems on LeetCode and CodeChef, which is where most of my fundamentals come from.
 
@@ -48,6 +48,8 @@ Two-week internship building AI-integrated web features.
 
 **Frameworks & tools**
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
