@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sonia Nanwani&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  : 273, Total PRs: 30, Total PRs Merged: 17, Merged PRs Percentage: 56.67, Total PRs Reviewed: 13, Total Issues: 14, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Created: 30, PRs Reviewed: 13, Issues Created: 14, Issues Commented: 1, Contributed to (last year): 7, Contributed to (all time): 7</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  : 275, Total PRs: 30, Total PRs Merged: 19, Merged PRs Percentage: 63.33, Total PRs Reviewed: 13, Total Issues: 17, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Created: 30, PRs Reviewed: 13, Issues Created: 17, Issues Commented: 1, Contributed to (last year): 8, Contributed to (all time): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 171.51282625036433;
+        stroke-dashoffset: 170.3309615001036;
       }
     }
   
@@ -173,7 +173,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >273</text>
+      >275</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -203,7 +203,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >17</text>
+      >19</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -218,7 +218,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >56.67 %</text>
+      >63.33 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -248,7 +248,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >14</text>
+      >17</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
@@ -323,7 +323,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues_authored"
-      >14</text></a>
+      >17</text></a>
     </g>
   </g><g transform="translate(0, 300)">
     <g class="stagger" style="animation-delay: 2250ms" transform="translate(25, 0)"><a href="https://github.com/search?q=commenter%3AItssonia7+-author%3AItssonia7&amp;type=issues">
@@ -353,7 +353,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >7</text>
+      >8</text>
     </g>
   </g><g transform="translate(0, 350)">
     <g class="stagger" style="animation-delay: 2550ms" transform="translate(25, 0)">
@@ -368,7 +368,7 @@
         x="224.01"
         y="12.5"
         data-testid="all_time_contribs"
-      >7</text>
+      >8</text>
     </g>
   </g>
     </svg>
