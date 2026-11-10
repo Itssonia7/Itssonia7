@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sonia Nanwani&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  : 275, Total PRs: 30, Total PRs Merged: 19, Merged PRs Percentage: 63.33, Total PRs Reviewed: 13, Total Issues: 17, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Created: 30, PRs Reviewed: 13, Issues Created: 17, Issues Commented: 1, Contributed to (last year): 8, Contributed to (all time): 8</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  : 275, Total PRs: 31, Total PRs Merged: 19, Merged PRs Percentage: 61.29, Total PRs Reviewed: 13, Total Issues: 17, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Created: 31, PRs Reviewed: 13, Issues Created: 17, Issues Commented: 1, Contributed to (last year): 8, Contributed to (all time): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 170.3309615001036;
+        stroke-dashoffset: 169.76025804037909;
       }
     }
   
@@ -188,7 +188,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >30</text>
+      >31</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -218,7 +218,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >63.33 %</text>
+      >61.29 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -293,7 +293,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_authored"
-      >30</text></a>
+      >31</text></a>
     </g>
   </g><g transform="translate(0, 250)">
     <g class="stagger" style="animation-delay: 1950ms" transform="translate(25, 0)"><a href="https://github.com/search?q=reviewed-by%3AItssonia7+-author%3AItssonia7&amp;type=pullrequests">
