@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sonia Nanwani&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  : 279, Total PRs: 34, Total PRs Merged: 20, Merged PRs Percentage: 58.82, Total PRs Reviewed: 16, Total Issues: 17, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Created: 34, PRs Reviewed: 13, Issues Created: 17, Issues Commented: 1, Contributed to (last year): 9, Contributed to (all time): 9</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  : 279, Total PRs: 34, Total PRs Merged: 20, Merged PRs Percentage: 58.82, Total PRs Reviewed: 17, Total Issues: 17, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Created: 34, PRs Reviewed: 13, Issues Created: 17, Issues Commented: 1, Contributed to (last year): 9, Contributed to (all time): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 167.81480063390705;
+        stroke-dashoffset: 167.79083836347712;
       }
     }
   
@@ -233,7 +233,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >16</text>
+      >17</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
