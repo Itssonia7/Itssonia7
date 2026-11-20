@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sonia Nanwani&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  : 293, Total PRs: 49, Total PRs Merged: 31, Merged PRs Percentage: 63.27, Total PRs Reviewed: 17, Total Issues: 17, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Created: 49, PRs Reviewed: 13, Issues Created: 17, Issues Commented: 53, Contributed to (last year): 10, Contributed to (all time): 10</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  : 293, Total PRs: 52, Total PRs Merged: 31, Merged PRs Percentage: 59.62, Total PRs Reviewed: 17, Total Issues: 17, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Created: 52, PRs Reviewed: 13, Issues Created: 17, Issues Commented: 53, Contributed to (last year): 10, Contributed to (all time): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 160.11161974942195;
+        stroke-dashoffset: 158.81399959464312;
       }
     }
   
@@ -188,7 +188,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >49</text>
+      >52</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -218,7 +218,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >63.27 %</text>
+      >59.62 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -293,7 +293,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_authored"
-      >49</text></a>
+      >52</text></a>
     </g>
   </g><g transform="translate(0, 250)">
     <g class="stagger" style="animation-delay: 1950ms" transform="translate(25, 0)"><a href="https://github.com/search?q=reviewed-by%3AItssonia7+-author%3AItssonia7&amp;type=pullrequests">
