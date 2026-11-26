@@ -51,7 +51,7 @@ BS Data Science @ IIT Madras
 ### A Few Things I'm Proud Of
 
 - Shortlisted for the IIT Bombay Research Internship – Compiler Optimizations based on Java Value Types.
-- Selected for Amazon ML Summer School 2026 (among the top 3,000 from 1.34L+ applicants).
+- Shortlisted for Amazon ML Summer School 2026 (among the top 3,000 from 1.34L+ applicants).
 - Finalist, GDG Sangli TechSprint 2026 – EcoLens AI.
 - Top 50, Breaking Enigma Hackathon 2026 – TrustTrace.
 - CodeChef 2-Star Programmer; solved 850+ DSA problems across LeetCode and CodeChef.
