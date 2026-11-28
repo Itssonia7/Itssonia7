@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sonia Nanwani&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  : 332, Total PRs: 80, Total PRs Merged: 66, Merged PRs Percentage: 82.50, Total PRs Reviewed: 17, Total Issues: 17, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Created: 80, PRs Reviewed: 13, Issues Created: 17, Issues Commented: 68, Contributed to (last year): 10, Contributed to (all time): 10</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  : 336, Total PRs: 92, Total PRs Merged: 71, Merged PRs Percentage: 77.17, Total PRs Reviewed: 17, Total Issues: 17, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Created: 92, PRs Reviewed: 13, Issues Created: 17, Issues Commented: 68, Contributed to (last year): 10, Contributed to (all time): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 148.08954995155267;
+        stroke-dashoffset: 144.82093730620815;
       }
     }
   
@@ -173,7 +173,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >332</text>
+      >336</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -188,7 +188,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >80</text>
+      >92</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -203,7 +203,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >66</text>
+      >71</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -218,7 +218,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >82.50 %</text>
+      >77.17 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -293,7 +293,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_authored"
-      >80</text></a>
+      >92</text></a>
     </g>
   </g><g transform="translate(0, 250)">
     <g class="stagger" style="animation-delay: 1950ms" transform="translate(25, 0)"><a href="https://github.com/search?q=reviewed-by%3AItssonia7+-author%3AItssonia7&amp;type=pullrequests">
